@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "moment": "^2.6.0",
-    "underscore": "^1.6.0"
+    "moment": "2.x", //use of semantic versioning with carrot is the same as "2.x" / "^2." || originally "moment": "^2.6.0",
+    "underscore": "1.x" //use of semantic versioning "^1." || originally "underscore": "^1.6.0"
   }
 }
